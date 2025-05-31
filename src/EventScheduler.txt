@@ -1,3 +1,0 @@
-Event: wew	 Date of Event:2/18/2026
-Event: 2	 Date of Event:2/18/2026
-Event: d "c:\Users\Admin\Desktop\Clydes Important Files\C codes\" ; if ($?) { gcc eventScheduler.c -o even	 Date of Event:2/18/2026

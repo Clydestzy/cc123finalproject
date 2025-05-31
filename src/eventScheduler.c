@@ -125,6 +125,7 @@ void eventsScheduler(struct event *eventptr) {
             j = j + 1;
         } else {
             printf("Exiting...\n");
+            sleep(1);
         }
     }
 }
@@ -158,6 +159,7 @@ if ( choice == 1 ) {
     }
 
     char line[200];
+    printf("\n********************************\n");
     printf("Events:\n");
     
 
@@ -167,6 +169,7 @@ if ( choice == 1 ) {
 
 
     fclose(file);
+    printf("\n********************************\n");
 }
 
 
